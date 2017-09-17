@@ -31,7 +31,7 @@ let fishForSquare = {
 	"1,1":"red"
 };
 
-let showCoords = true;
+let showCoords = false; //true;
 
 
 
