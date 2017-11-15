@@ -1,35 +1,36 @@
 
-// let fishForSquare = {
-// 	"4,4": "pink",
-// 	"1,4": "pink",
-// 	"4,1": "green",
-// 	"2,1": "green",
-// 	"1,1": "yellow",
-// 	"3,3": "yellow",
-// 	"4,3": "red",
-// 	"3,2": "red"
-// };
-
-// let boardSize
-
-let boardSize = 6;
 
 let fishForSquare = {
-	"4,4": "brown",
-	"2,3": "brown",
-	"3,3": "silver",
-	"5,2": "silver",
-	"5,4": "blue",
-	"5,6": "blue",
-	"2,5": "green",
-	"4,5":"green",
-	"4,6": "yellow",
-	"2,6":"yellow",
-	"1,6":"pink",
-	"4,2":"pink",
-	"6,6": "red",
-	"1,1":"red"
+	"4,4": "pink",
+	"1,4": "pink",
+	"4,1": "green",
+	"2,1": "green",
+	"1,1": "yellow",
+	"3,3": "yellow",
+	"4,3": "red",
+	"3,2": "red"
 };
+
+let boardSize = 4
+
+// let boardSize = 6;
+
+// let fishForSquare = {
+// 	"4,4": "brown",
+// 	"2,3": "brown",
+// 	"3,3": "silver",
+// 	"5,2": "silver",
+// 	"5,4": "blue",
+// 	"5,6": "blue",
+// 	"2,5": "green",
+// 	"4,5":"green",
+// 	"4,6": "yellow",
+// 	"2,6":"yellow",
+// 	"1,6":"pink",
+// 	"4,2":"pink",
+// 	"6,6": "red",
+// 	"1,1":"red"
+// };
 
 let showCoords = false; //true;
 
